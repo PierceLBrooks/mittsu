@@ -8,6 +8,7 @@ module Mittsu
   end
 end
 
+require "mittsu/utils"
 require "mittsu/version"
 require "mittsu/math"
 require "mittsu/core"
